@@ -131,3 +131,8 @@ a {
     text-align: center;
     font-size: 1.35rem;
 }
+
+/* UTI */
+.hide {
+    display: none;
+}
